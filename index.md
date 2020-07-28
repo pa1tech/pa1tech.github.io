@@ -4,9 +4,9 @@ title: Pa1Tech
 ---
 # pa1tech.github.io
 
-## [My Blog](https://pa1tech.github.io/blog&)
-## [Anveshak](https://pa1tech.github.io/anveshak/)
-## <a href="https://twitter.com/pa1tech/" target="_blank">GG</a>
+## <a href="https://pa1tech.github.io/blog" target="_blank">My Blog</a>
+
+## <a href="https://pa1tech.github.io/anveshak/" target="_blank">Anveshak</a>
 
 <a href="https://twitter.com/pa1tech/
 " target="_blank"><img src="https://cdn3.iconfinder.com/data/icons/social-media-chamfered-corner/154/twitter-128.png" 
