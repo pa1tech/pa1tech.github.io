@@ -3,13 +3,15 @@ title: Pa1Tech
 
 ---
 
-* ## <a href="https://pa1tech.github.io/blog" target="_blank">My Blog</a>
+* ## <a href="https://pa1tech.github.io/blog/" target="_blank">My Blog</a>
 
 * ## <a href="https://pa1tech.github.io/anveshak/" target="_blank">Anveshak</a>
 
 * ### <a href="https://pa1tech.github.io/tax_regime/" target="_blank">Tax Regime Comparision</a>
 
 * ### <a href="https://pa1tech.github.io/upi.html" target="_blank">UPI Web App</a>
+
+* ### <a href="https://pa1tech.github.io/ftp.html" target="_blank">FTP Server - Win10</a>
 
 <a href="https://twitter.com/pa1tech/
 " target="_blank"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Twitter3_colored_svg-128.png" 
