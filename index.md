@@ -11,6 +11,8 @@ title: Pa1Tech
 
 * ### <a href="https://pa1tech.github.io/upi.html" target="_blank">UPI Web App</a>
 
+	* ### <a href="https://youtu.be/qXvwXBQ5YGM" target="_blank">Short video describing UPI QR</a>
+
 * ### <a href="https://pa1tech.github.io/ftp.html" target="_blank">FTP Server - Win10</a>
 
 * ### <a href="https://www.youtube.com/playlist?list=PLVJjzyMTH9lJVxrVWx3xViB_EVAl2jqXx" target="_blank">Cooking Fun</a>
