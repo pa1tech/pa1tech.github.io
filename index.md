@@ -9,11 +9,9 @@ title: Pa1Tech
 ![Clock](https://pa1tech.github.io/DIY-Digital-Clock/media/photo2.jpg "Clock")
 
 * ### <a href="https://pa1tech.github.io/upi.html" target="_blank">UPI Web App</a>
-
-	* ### <a href="https://youtu.be/qXvwXBQ5YGM" target="_blank">Short video describing UPI QR</a>
-		<figure class="video_container">
-		  <iframe width="640" height="360" src="https://www.youtube.com/embed/qXvwXBQ5YGM" frameborder="0" allowfullscreen="true"> </iframe>
-		</figure>
+	<figure class="video_container">
+	  <iframe width="640" height="360" src="https://www.youtube.com/embed/qXvwXBQ5YGM" frameborder="0" allowfullscreen="true"> </iframe>
+	</figure>
 
 * ### <a href="https://pa1tech.github.io/ftp.html" target="_blank">FTP Server - Win10</a>
 ![Screen](https://raw.githubusercontent.com/pa1tech/ftpServer/master/pics/v2.jpg)
