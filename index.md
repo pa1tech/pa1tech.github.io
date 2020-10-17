@@ -7,11 +7,19 @@ title: Pa1Tech
 
 * ## <a href="https://pa1tech.github.io/anveshak/" target="_blank">Anveshak</a>
 
+* ### <a href="https://pa1tech.github.io/DIY-Digital-Clock/" target="_blank">DIY Digital Clock</a>
+		![Clock](https://pa1tech.github.io/DIY-Digital-Clock/media/photo2.jpg "Clock")
+
 * ### <a href="https://pa1tech.github.io/tax_regime/" target="_blank">Tax Regime Comparision</a>
 
 * ### <a href="https://pa1tech.github.io/upi.html" target="_blank">UPI Web App</a>
 
 	* ### <a href="https://youtu.be/qXvwXBQ5YGM" target="_blank">Short video describing UPI QR</a>
+	*	<figure class="video_container">
+		  <video width="480" height="360" controls="true" allowfullscreen="true">
+		    <source src="media/video.mp4" type="video/mp4">
+		  </video>
+		</figure>
 
 * ### <a href="https://pa1tech.github.io/ftp.html" target="_blank">FTP Server - Win10</a>
 
