@@ -10,18 +10,17 @@ title: Pa1Tech
 * ### <a href="https://pa1tech.github.io/DIY-Digital-Clock/" target="_blank">DIY Digital Clock</a>
 ![Clock](https://pa1tech.github.io/DIY-Digital-Clock/media/photo2.jpg "Clock")
 
-* ### <a href="https://pa1tech.github.io/tax_regime/" target="_blank">Tax Regime Comparision AY 2020-21</a>
+* ### <a href="https://pa1tech.github.io/tax_regime/" target="_blank">Tax Regime Comparision for FY 2020-21</a>
 
 * ### <a href="https://pa1tech.github.io/upi.html" target="_blank">UPI Web App</a>
 
 	* ### <a href="https://youtu.be/qXvwXBQ5YGM" target="_blank">Short video describing UPI QR</a>
 	*	<figure class="video_container">
-		  <video width="480" height="360" controls="true" allowfullscreen="true">
-		    <source src="https://pa1tech.github.io/upi/assets/upi_qr.mp4" type="video/mp4">
-		  </video>
+		  <iframe width="640" height="360" src="https://www.youtube.com/embed/qXvwXBQ5YGM" frameborder="0" allowfullscreen="true"> </iframe>
 		</figure>
 
 * ### <a href="https://pa1tech.github.io/ftp.html" target="_blank">FTP Server - Win10</a>
+![Screen](https://raw.githubusercontent.com/pa1tech/ftpServer/master/pics/v2.jpg)
 
 * ### <a href="https://www.youtube.com/playlist?list=PLVJjzyMTH9lJVxrVWx3xViB_EVAl2jqXx" target="_blank">Cooking Fun</a>
 ***
