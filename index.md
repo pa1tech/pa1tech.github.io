@@ -10,7 +10,7 @@ title: Pa1Tech
 
 * ### <a href="https://pa1tech.github.io/upi.html" target="_blank">UPI Web App</a>
 	<figure class="video_container">
-	  <iframe width="320" height="180" src="https://www.youtube.com/embed/qXvwXBQ5YGM" frameborder="0" allowfullscreen="true"> </iframe>
+	  <iframe width="480" height="270" src="https://www.youtube.com/embed/qXvwXBQ5YGM" frameborder="0" allowfullscreen="true"> </iframe>
 	</figure>
 
 * ### <a href="https://pa1tech.github.io/ftp.html" target="_blank">FTP Server - Win10</a>
