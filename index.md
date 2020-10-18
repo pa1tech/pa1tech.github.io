@@ -3,6 +3,13 @@ title: Pa1Tech
 
 ---
 
+<head>
+	<meta property="twitter:card" content="summary" />
+	<meta property="twitter:title" content="Pa1Tech" />
+	<meta property="twitter:image" content="https://pa1tech.github.io/logo.jpg" />
+	<meta property="twitter:site" content="https://pa1tech.github.io/" />	
+</head>
+
 * ## My blog - <a href="https://pa1tech.github.io/blog/" target="_blank">!ncredible Tech</a>
 
 * ### <a href="https://pa1tech.github.io/DIY-Digital-Clock/" target="_blank">DIY Digital Clock</a>
