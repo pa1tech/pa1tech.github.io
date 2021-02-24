@@ -17,10 +17,14 @@ title: Pa1Tech
 
 * ### UPI Stuff
 	* <a href="https://pa1tech.github.io/upi.html" target="_blank">UPI Web App</a>
+
 	* <a href="https://telegram.me/incred_upibot" target="_blank">UPI Bot for Telegram</a>
+
    	* <a href="https://www.youtube.com/embed/qXvwXBQ5YGM" target="_blank">UPI QR decoded!</a>
-   		<iframe width="320" height="180" src="https://www.youtube.com/embed/qXvwXBQ5YGM" allowfullscreen="true"> </iframe>
-* <a href="https://telegram.me/incred_urlbot" target="_blank">URL Shortener Bot for Telegram</a>
+
+   	<iframe width="320" height="180" src="https://www.youtube.com/embed/qXvwXBQ5YGM" allowfullscreen="true"> </iframe>
+
+* ### <a href="https://telegram.me/incred_urlbot" target="_blank">URL Shortener Bot for Telegram</a>
 
 * ### <a href="https://pa1tech.github.io/ftp.html" target="_blank">FTP Server - Win10</a>
 ![Screen](https://raw.githubusercontent.com/pa1tech/ftpServer/master/pics/v2.jpg)
