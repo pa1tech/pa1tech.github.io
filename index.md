@@ -20,8 +20,8 @@ title: Pa1Tech
 
 	* <a href="https://telegram.me/incred_upibot" target="_blank">UPI Bot for Telegram</a>
 
-   	* <a href="https://www.youtube.com/embed/qXvwXBQ5YGM" target="_blank">UPI QR decoded</a>
-   	
+   	* <a href="https://youtu.be/qXvwXBQ5YGM" target="_blank">UPI QR decoded</a>
+
 	  <iframe width="320" height="180" src="https://www.youtube.com/embed/qXvwXBQ5YGM" allowfullscreen="true"> </iframe>
 
 * ### <a href="https://telegram.me/incred_urlbot" target="_blank">URL Shortener Bot for Telegram</a>
