@@ -15,8 +15,12 @@ title: Pa1Tech
 * ### <a href="https://pa1tech.github.io/DIY-Digital-Clock/" target="_blank">DIY Digital Clock</a>
 ![Clock](https://pa1tech.github.io/DIY-Digital-Clock/media/photo2.jpg "Clock")
 
-* ### <a href="https://pa1tech.github.io/upi.html" target="_blank">UPI Web App</a>
-   <iframe width="320" height="180" src="https://www.youtube.com/embed/qXvwXBQ5YGM" allowfullscreen="true"> </iframe>
+* ### UPI Stuff
+	* <a href="https://pa1tech.github.io/upi.html" target="_blank">UPI Web App</a>
+	* <a href="https://telegram.me/incred_upibot" target="_blank">UPI Bot for Telegram</a>
+   	* <a href="https://www.youtube.com/embed/qXvwXBQ5YGM" target="_blank">UPI QR decoded!</a>
+   		<iframe width="320" height="180" src="https://www.youtube.com/embed/qXvwXBQ5YGM" allowfullscreen="true"> </iframe>
+* <a href="https://telegram.me/incred_urlbot" target="_blank">URL Shortener Bot for Telegram</a>
 
 * ### <a href="https://pa1tech.github.io/ftp.html" target="_blank">FTP Server - Win10</a>
 ![Screen](https://raw.githubusercontent.com/pa1tech/ftpServer/master/pics/v2.jpg)
@@ -37,6 +41,6 @@ alt="mail" width="50" height="50" border="20" /></a>&emsp;&emsp;
 <a href="https://github.com/pa1tech/
 " target="_blank"><img src="https://cdn0.iconfinder.com/data/icons/octicons/1024/mark-github-128.png" 
 alt="github" width="50" height="50" border="20" /></a>&emsp;&emsp;
-<a href="https://t.me/pa1tech/
+<a href="https://telegram.me/pa1tech/
 " target="_blank"><img src="https://cdn3.iconfinder.com/data/icons/social-icons-33/512/Telegram-128.png" 
 alt="telegram" width="50" height="50" border="20" /></a>
