@@ -16,11 +16,11 @@ title: Pa1Tech
 ![Clock](https://pa1tech.github.io/DIY-Digital-Clock/media/photo2.jpg "Clock")
 
 * ### UPI Stuff
-	* <a href="https://pa1tech.github.io/upi.html" target="_blank">UPI Web App</a>
+	* #### <a href="https://pa1tech.github.io/upi.html" target="_blank">UPI Web App</a>
 
-	* <a href="https://telegram.me/incred_upibot" target="_blank">UPI Bot for Telegram</a>
+	* #### <a href="https://telegram.me/incred_upibot" target="_blank">UPI Bot for Telegram</a>
 
-   	* <a href="https://youtu.be/qXvwXBQ5YGM" target="_blank">UPI QR decoded</a>
+   	* #### <a href="https://youtu.be/qXvwXBQ5YGM" target="_blank">UPI QR decoded</a>
 
 	<iframe width="320" height="180" src="https://www.youtube.com/embed/qXvwXBQ5YGM" allowfullscreen="true"> </iframe>
 
