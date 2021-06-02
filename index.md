@@ -29,7 +29,7 @@ title: Pa1Tech
 * ### <a href="https://pa1tech.github.io/ftp.html" target="_blank">FTP Server - Win10</a>
 ![Screen](https://raw.githubusercontent.com/pa1tech/ftpServer/master/pics/v2.jpg)
 
-* ### <a href="https://pa1tech.github.io/tax_regime/" target="_blank">Tax Regime Comparision for FY 2020-21</a>
+<!-- * ### <a href="https://pa1tech.github.io/tax_regime/" target="_blank">Tax Regime Comparision for FY 2020-21</a> -->
 
 * ### <a href="https://pa1tech.github.io/anveshak/" target="_blank">Anveshak</a>
 
