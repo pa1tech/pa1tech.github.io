@@ -10,7 +10,7 @@ title: Pa1Tech
 	<meta property="twitter:site" content="https://pa1tech.github.io/" />	
 </head>
 
-* ## <a href="https://pa1tech.github.io/blog/" target="_blank">!ncredible Tech</a>
+* ### <a href="https://pa1tech.github.io/blog/" target="_blank">!ncredible Tech</a>
 	Blog about some of my interesting explorations!
 
 * ### <a href="https://pa1tech.github.io/DIY-Digital-Clock/" target="_blank">DIY Digital Clock</a>
@@ -29,7 +29,9 @@ title: Pa1Tech
 
 * ### <a href="https://github.com/pa1tech/incred_file_share/releases" target="_blank">!ncred File Share</a>
 	Share files easily from Windows 10 using FTP or HTTP
-![Screen](https://raw.githubusercontent.com/pa1tech/incred_file_share/master/pics/v3.jpg)
+
+
+	![Screen](https://raw.githubusercontent.com/pa1tech/incred_file_share/master/pics/v3.jpg)
 
 <!-- * ### <a href="https://pa1tech.github.io/tax_regime/" target="_blank">Tax Regime Comparision for FY 2020-21</a> -->
 
