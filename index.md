@@ -43,7 +43,7 @@ title: Pa1Tech
 <a href="https://twitter.com/pa1tech/
 " target="_blank"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Twitter3_colored_svg-128.png" 
 alt="insta" width="50" height="50" border="20" /></a>&emsp;&emsp;
-<a href="mailto:pa1_tech@outlook.com
+<a href="mailto:pa1tech411@gmail.com
 " target="_blank"><img src="https://cdn1.iconfinder.com/data/icons/unigrid-bluetone-multimedia-vol-4/60/020_169_mail_email_envelope_message-128.png" 
 alt="mail" width="50" height="50" border="20" /></a>&emsp;&emsp;
 <a href="https://github.com/pa1tech/
