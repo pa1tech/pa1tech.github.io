@@ -14,7 +14,7 @@ title: Pa1Tech
 	Blog about some of my interesting explorations!
 
 * ### <a href="https://pa1tech.github.io/DIY-Digital-Clock/" target="_blank">DIY Digital Clock</a>
-![Clock](https://pa1tech.github.io/DIY-Digital-Clock/media/photo2.jpg "Clock")
+![Clock](https://pa1tech.github.io/DIY-Digital-Clock/media/ver2_1.jpg "Clock")
 
 * ### UPI Stuff
 	* #### <a href="https://github.com/pa1tech/upi" target="_blank">UPI Web App</a>
