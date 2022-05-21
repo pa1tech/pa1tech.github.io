@@ -13,6 +13,9 @@ title: Pa1Tech
 * ### <a href="https://pa1tech.github.io/blog/" target="_blank">!ncredible Tech</a>
 	Blog about some of my interesting explorations!
 
+* ### <a href="https://pa1tech.github.io/remoteSwitch/" target="_blank">Remote Switch</a>
+![Switch](https://pa1tech.github.io/remoteSwitch/assets/gg.png "Switch")
+
 * ### <a href="https://pa1tech.github.io/DIY-Digital-Clock/" target="_blank">DIY Digital Clock</a>
 ![Clock](https://pa1tech.github.io/DIY-Digital-Clock/media/ver2_1.jpg "Clock")
 
