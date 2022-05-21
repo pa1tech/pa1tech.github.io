@@ -39,6 +39,7 @@ title: Pa1Tech
 <!-- * ### <a href="https://pa1tech.github.io/tax_regime/" target="_blank">Tax Regime Comparision for FY 2020-21</a> -->
 
 * ### <a href="https://pa1tech.github.io/anveshak/" target="_blank">Anveshak Docs</a>
+* ### <a href="https://github.com/pa1tech/tii/" target="_blank">TII Fun Projs</a>
 
 * #### <a href="https://www.youtube.com/playlist?list=PLVJjzyMTH9lJVxrVWx3xViB_EVAl2jqXx" target="_blank">Cooking Fun</a>
 ***
