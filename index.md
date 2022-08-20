@@ -43,8 +43,8 @@ title: Pa1Tech
 
 * #### <a href="https://www.youtube.com/playlist?list=PLVJjzyMTH9lJVxrVWx3xViB_EVAl2jqXx" target="_blank">Cooking Fun</a>
 
-* ### My Twitter:
-	<a class="twitter-timeline" href="https://twitter.com/pa1tech?ref_src=twsrc%5Etfw">Tweets by pa1tech</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+* <a class="twitter-timeline" data-width="500" data-height="500" data-dnt="true" href="https://twitter.com/pa1tech?ref_src=twsrc%5Etfw">Tweets by pa1tech</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 ***
 
 <a href="https://twitter.com/pa1tech/
