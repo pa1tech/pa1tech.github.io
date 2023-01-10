@@ -13,6 +13,9 @@ title: Pa1Tech
 * ### <a href="https://pa1tech.github.io/blog/" target="_blank">!ncredible Tech</a>
 	Blog about some of my interesting explorations!
 
+* ### <a href="https://github.com/pa1tech/MFtool" target="_blank">MF Tool</a>
+	Python script to calclate your MF returns and benchmark each fund wrt Nifty 50
+
 * ### <a href="https://pa1tech.github.io/remoteSwitch/" target="_blank">Remote Switch</a>
 ![Switch](https://pa1tech.github.io/remoteSwitch/assets/gg.png "Switch")
 
