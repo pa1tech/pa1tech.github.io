@@ -1,6 +1,8 @@
 ---
 title: Pa1Tech
 
+image:
+  path: https://pa1tech.github.io/logo.jpg
 ---
 
 <head>
