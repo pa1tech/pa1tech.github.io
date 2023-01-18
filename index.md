@@ -33,7 +33,8 @@ image:
 
 	<iframe width="320" height="180" src="https://www.youtube.com/embed/qXvwXBQ5YGM" allowfullscreen="true"></iframe>
 
-* ### <a href="https://telegram.me/incred_urlbot" target="_blank">!ncred URL Shortener</a> - a Telegram bot to shorten URLs
+* ### <a href="https://telegram.me/incred_urlbot" target="_blank">!ncred URL Shortener</a> 
+        Telegram bot to shorten URLs
 
 * ### <a href="https://github.com/pa1tech/incred_file_share/releases" target="_blank">!ncred File Share</a>
 	Share files easily from Windows 10 using FTP or HTTP
