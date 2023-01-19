@@ -18,6 +18,9 @@ image:
 * ### <a href="https://github.com/pa1tech/MFtool" target="_blank">MF Tool</a>
 	Python script to calclate your MF returns and benchmark each fund wrt Nifty 50
 
+* ### <a href="https://github.com/pa1tech/incred_pdfMerger/releases" target="_blank">!ncred PDF Merger</a>
+Merger PDFs easily on Windows 
+	
 * ### <a href="https://pa1tech.github.io/remoteSwitch/" target="_blank">Remote Switch</a>
 ![Switch](https://pa1tech.github.io/remoteSwitch/assets/gg.png "Switch")
 
@@ -33,14 +36,15 @@ image:
 
 	<iframe width="320" height="180" src="https://www.youtube.com/embed/qXvwXBQ5YGM" allowfullscreen="true"></iframe>
 
-* ### <a href="https://telegram.me/incred_urlbot" target="_blank">!ncred URL Shortener</a> 
-Telegram bot to shorten URLs
+
 
 * ### <a href="https://github.com/pa1tech/incred_file_share/releases" target="_blank">!ncred File Share</a>
 	Share files easily from Windows 10 using FTP or HTTP
 
-
 	![Screen](https://raw.githubusercontent.com/pa1tech/incred_file_share/master/pics/v3.jpg)
+
+* ### <a href="https://telegram.me/incred_urlbot" target="_blank">!ncred URL Shortener</a> 
+Telegram bot to shorten URLs
 
 <!-- * ### <a href="https://pa1tech.github.io/tax_regime/" target="_blank">Tax Regime Comparision for FY 2020-21</a> -->
 
