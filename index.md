@@ -15,14 +15,14 @@ image:
 * ### <a href="https://pa1tech.github.io/blog/" target="_blank">!ncredible Tech</a>
 	Blog about some of my interesting explorations!
 
+* ### <a href="https://pa1tech.github.io/remoteSwitch/" target="_blank">Remote Switch</a>
+![Switch](https://pa1tech.github.io/remoteSwitch/assets/gg.png "Switch")
+
 * ### <a href="https://github.com/pa1tech/MFtool" target="_blank">MF Tool</a>
 	Python script to calclate your MF returns and benchmark each fund wrt Nifty 50
 
 * ### <a href="https://github.com/pa1tech/incred_pdfMerger/releases" target="_blank">!ncred PDF Merger</a>
 	Merger PDFs easily on Windows 
-	
-* ### <a href="https://pa1tech.github.io/remoteSwitch/" target="_blank">Remote Switch</a>
-![Switch](https://pa1tech.github.io/remoteSwitch/assets/gg.png "Switch")
 
 * ### <a href="https://pa1tech.github.io/DIY-Digital-Clock/" target="_blank">DIY Digital Clock</a>
 ![Clock](https://pa1tech.github.io/DIY-Digital-Clock/media/ver2_1.jpg "Clock")
@@ -35,8 +35,6 @@ image:
 	* #### <a href="https://youtu.be/qXvwXBQ5YGM" target="_blank">UPI QR decoded</a>
 
 	<iframe width="320" height="180" src="https://www.youtube.com/embed/qXvwXBQ5YGM" allowfullscreen="true"></iframe>
-
-
 
 * ### <a href="https://github.com/pa1tech/incred_file_share/releases" target="_blank">!ncred File Share</a>
 	Share files easily from Windows 10 using FTP or HTTP
