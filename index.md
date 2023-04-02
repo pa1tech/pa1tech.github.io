@@ -24,6 +24,8 @@ image:
 * ### <a href="https://github.com/pa1tech/tbillReturns" target="_blank">tBill Returns</a>
 	Python script to scrape T-Bill Returns History of the year from RBI press releases
 
+	* #### <a href="https://github.com/pa1tech/rbi_rdg_stats" target="_blank">Retail Direct Gilt Stats</a>
+	
 * ### <a href="https://github.com/pa1tech/incred_pdfMerger/releases" target="_blank">!ncred PDF Merger</a>
 	Merger PDFs easily on Windows 
 
