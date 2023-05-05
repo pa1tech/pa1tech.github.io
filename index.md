@@ -21,6 +21,9 @@ image:
 * ### <a href="https://github.com/pa1tech/MFtool" target="_blank">MF Tool</a>
 	Python script to calclate your MF returns and benchmark each fund wrt Nifty 50
 
+* ### <a href="https://github.com/pa1tech/npsTool" target="_blank">NPS Tool</a>
+	Python script to benchmark your NPS Tier-1 Equity performance amongst SBI, HDFC and NIFTY
+
 * ### <a href="https://github.com/pa1tech/tbillReturns" target="_blank">tBill Returns</a>
 	Python script to scrape T-Bill Returns History of the year from RBI press releases
 
