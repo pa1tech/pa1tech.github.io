@@ -53,7 +53,7 @@ image:
 
 <!-- * ### <a href="https://pa1tech.github.io/tax_regime/" target="_blank">Tax Regime Comparision for FY 2020-21</a> -->
 
-* ### <a href="https://gist.github.com/pa1tech/689f7e9098d1dd32a7302ea68999d665" target="_blank">Newsletter on Telegram Bot Gist</a>
+* ### <a href="https://github.com/pa1tech/newsCollection" target="_blank">Newsletters on Telegram Bot</a>
 
 * ### <a href="https://pa1tech.github.io/anveshak/" target="_blank">Anveshak Docs</a>
 * ### <a href="https://github.com/pa1tech/tii/" target="_blank">TII Fun Projs</a>
