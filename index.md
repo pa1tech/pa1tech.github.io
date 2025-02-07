@@ -15,6 +15,9 @@ image:
 * ### <a href="https://pa1tech.github.io/blog/" target="_blank">!ncredible Tech</a>
 	Blog about some of my interesting explorations!
 
+* #### <a href="https://pa1tech.github.io/IndiaPostTracking" target="_blank">India Post Tracking without Captcha</a>
+	Tryout @ https://vercel-py-telegram-bot.vercel.app/IndiaPostTracking?<Tracking_ID>
+
 * ### <a href="https://pa1tech.github.io/remoteSwitch/" target="_blank">Remote Switch</a>
 ![Switch](https://pa1tech.github.io/remoteSwitch/assets/gg.png "Switch")
 
